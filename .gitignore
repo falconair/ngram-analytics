@@ -1,0 +1,7 @@
+data/
+__pycache__/
+*.egg-info/
+*.pyc
+.dagster/
+.tmp_*
+dagster_data/
